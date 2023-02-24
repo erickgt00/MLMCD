@@ -10,5 +10,5 @@ Clase de ML de la Maestría en Ciencia de Datos
 [Tarea 4: Carácteristicas de los Datos](https://github.com/erickgt00/MLMCD/blob/main/Tarea_4.ipynb)
 
 [Tarea 5: No Supervisado (K-means)](https://github.com/erickgt00/MLMCD/blob/main/Tarea_5_EG.ipynb)
-> [Tarea 5: No Supervisado (K-means)](https://github.com/erickgt00/MLMCD/blob/main/Tarea_5_EG.ipynb)
+> [Tarea 5: Artículo](https://github.com/erickgt00/MLMCD/blob/main/Tarea_5_EG.ipynb)
 
