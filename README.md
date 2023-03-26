@@ -11,11 +11,13 @@ Clase de ML de la Maestría en Ciencia de Datos
 
 [Tarea 5: No Supervisado (K-means)](https://github.com/erickgt00/MLMCD/blob/main/tareas/Tarea_5_EG.ipynb)
 > [Tarea 5: Artículo](https://github.com/erickgt00/MLMCD/blob/main/tareas/TAREA_5.pdf)
-
 > [Tarea 5: LaTex](https://github.com/erickgt00/MLMCD/blob/main/tareas/latex5)
 
 [Tarea 6: Supervisado](https://github.com/erickgt00/MLMCD/blob/main/tareas/Tarea%206.ipynb)
 > [Tarea 6: Artículo](https://github.com/erickgt00/MLMCD/blob/main/tareas/TAREA_6.pdf)
-
 > [Tarea 6: LaTex](https://github.com/erickgt00/MLMCD/blob/main/tareas/latex6)
+
+[Artículo Final](https://github.com/erickgt00/MLMCD/blob/main/tareas/PIA_AA.pdf)
+> [Artículo Final: Codigo](https://github.com/erickgt00/MLMCD/blob/main/ARTICULO.ipynb)
+> [Artículo Final: LateX](https://github.com/erickgt00/MLMCD/blob/main/tareas/articulo.tex)
 
